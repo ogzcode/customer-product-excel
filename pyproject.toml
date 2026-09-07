@@ -1,0 +1,9 @@
+[project]
+name = "customer-product-excel"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "faker>=40.38.0",
+    "openpyxl>=3.1.5",
+]
